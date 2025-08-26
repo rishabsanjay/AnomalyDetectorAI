@@ -14,10 +14,6 @@ AI Anomaly Detector is a Flask-based web application that uses machine learning 
 
 🎨 Cyberpunk UI — Glassmorphism cards, animated gradients, neon buttons.
 
-🖼️ Preview
-<p align="center"> <img src="static/preview.png" width="700" alt="Cyberpunk Anomaly Detector UI preview"> </p>
-
-(Replace static/preview.png with a screenshot of your running app.)
 
 ⚙️ How It Works
 
